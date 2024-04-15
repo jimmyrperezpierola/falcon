@@ -32,7 +32,7 @@
     "jest": "24.8.0",
     "rimraf": "2.6.3",
     "rollup": "0.66.4",
-    "rollup-plugin-babel": "4.0.3",
+    "rollup-plugin-babel": "4.4.0",
     "rollup-plugin-commonjs": "9.1.8",
     "rollup-plugin-node-resolve": "3.4.0",
     "rollup-plugin-replace": "2.2.0",
