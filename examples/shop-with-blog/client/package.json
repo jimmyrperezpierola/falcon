@@ -34,9 +34,9 @@
     "@deity/falcon-ui": "^0.2.3",
     "@loadable/component": "5.7.0",
     "apollo-client": "2.5.1",
-    "config": "^2.0.1",
-    "cross-env": "5.2.0",
-    "formik": "^1.5.8",
+    "config": "^3.3.9",
+    "cross-env": "6.0.0",
+    "formik": "^2.2.9",
     "graphql": "^14.1.1",
     "graphql-tag": "^2.9.2",
     "i18next": "^12.1.0",
@@ -48,8 +48,8 @@
     "react-feather": "^1.1.3",
     "react-helmet": "^5.2.0",
     "react-powerplug": "1.0.0",
-    "react-router-dom": "5.0.0",
-    "styled-components": "4.3.2"
+    "react-router-dom": "5.0.1",
+    "styled-components": "6.1.0"
   },
   "devDependencies": {
     "@deity/eslint-config-falcon": "^0.1.3",
