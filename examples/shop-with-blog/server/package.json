@@ -20,10 +20,10 @@
     "@deity/falcon-server": "^0.3.3",
     "@deity/falcon-shop-extension": "^0.4.4",
     "@deity/falcon-wordpress-api": "^0.1.8",
-    "apollo-env": "0.4.0",
-    "config": "^2.0.1",
+    "apollo-env": "0.10.0",
+    "config": "^3.3.9",
     "core-js": "3.0.0-beta.3",
-    "cross-env": "5.2.0"
+    "cross-env": "6.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
