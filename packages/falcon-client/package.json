@@ -65,7 +65,7 @@
     "koa": "2.7.0",
     "koa-compress": "^3.0.0",
     "koa-helmet": "^4.0.0",
-    "koa-router": "^7.4.0",
+    "koa-router": "^13.0.1",
     "koa-send": "5.0.0",
     "koa-static": "^5.0.0",
     "mini-css-extract-plugin": "^0.5.0",
