@@ -27,7 +27,7 @@
     "graphql-tools": "^4.0.0",
     "lodash": "4.17.15",
     "oauth": "0.9.15",
-    "proper-url-join": "^1.2.0",
+    "proper-url-join": "^2.1.2",
     "qs": "6.6.0"
   },
   "devDependencies": {
